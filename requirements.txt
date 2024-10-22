@@ -1,0 +1,5 @@
+streamlit
+cohere
+youtube-transcript-api
+langchain
+python-dotenv
